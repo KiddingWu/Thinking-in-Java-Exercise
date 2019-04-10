@@ -1,4 +1,4 @@
-package holding;
+package holding.example;
 
 import java.util.Collections;
 import java.util.HashSet;

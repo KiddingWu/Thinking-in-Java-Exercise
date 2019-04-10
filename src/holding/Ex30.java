@@ -3,6 +3,7 @@ package holding;
 import java.util.Collection;
 import java.util.Iterator;
 
+import holding.example.InterfaceVsIterator;
 import typeinfo.pets.Pet;
 import typeinfo.pets.Pets;
 
